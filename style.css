@@ -1,0 +1,65 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222;
+}
+
+.map-container {
+    position: relative;
+    max-height: 90vh; 
+}
+
+.map-image {
+    display: block; 
+    width: auto;
+    height: auto;
+}
+.tooltip {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(116, 30, 30, 0.95);
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 12px;
+    max-width: 20vw;
+    font-size: 14px;
+    pointer-events: none;
+    box-sizing: border-box;
+    z-index: 0;
+    opacity: 0;
+    overflow-wrap: break-word;
+    visibility: hidden;
+    transform: translateY(10px) scale(0.95);
+    transition: opacity 0.3s ease,
+                transform 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                visibility 0.3s ease;
+}
+
+.tooltip.show {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    z-index: 1000;
+}
+
+.tooltip img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 8px;
+}
+.footer {
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background: transparent; 
+    padding: 10px 0;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.05);
+    z-index: 100;
+}
