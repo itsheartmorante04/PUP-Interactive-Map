@@ -72,10 +72,11 @@
       <div class="tooltip" id="pylon-tooltip">
         <h3>THE PYLON</h3>
         <img src="1pylon1.jpg" alt="THE PYLON Image" />
-        <p>
+              <p>
                 The PUP Pylon is one of the most recognizable architectural symbols of the Polytechnic University of the 
                 Philippines, Sta. Mesa. Standing tall near the main gate, it marks the historical entrance to the campus and serves 
-                as a lasting emblem of the university’s foundation and ideals.        </p>
+                as a lasting emblem of the university’s foundation and ideals.       
+              </p>
         <h3>Significance and Features:</h3>
             <ul>
                 <li>The three pillars of the Pylon represent Truth, Excellence, and Wisdom, which are the core values upheld by the university.</li>
@@ -264,7 +265,7 @@
         <h3>GABRIELA SILANG BUILDING</h3>
         <img src="pup_map.jpg" alt="GABRIELA SILANG BUILDING Image" />
         <p>
-          The building houses classrooms, faculty offices, and multipurpose rooms supporting various academic and student organization activities. Known for its modern                infrastructure, the Gabriela Silang Building enhances both academic and extracurricular life on campus by serving as a key resource for students in engineering,             architecture, and university organizations. Its proximity to the Tahanan ng Atleta also provides additional support for student-athletes and academic coordination.
+          The building houses classrooms, faculty offices, and multipurpose rooms supporting various academic and student organization activities. Known for its modern infrastructure, the Gabriela Silang Building enhances both academic and extracurricular life on campus by serving as a key resource for students in engineering, architecture, and university organizations. Its proximity to the Tahanan ng Atleta also provides additional support for student-athletes and academic coordination.
         </p>
       </div>
       <div class="tooltip" id="food-tooltip">
@@ -297,7 +298,7 @@
       </div>
       <div class="tooltip" id="linear-tooltip">
         <h3>LINEAR PARK</h3>
-        <img src="25linear.jpg" alt="LINEAR PARK Image" />
+        <img src="25linear.png" alt="LINEAR PARK Image" />
         <p>
           PUP Linear Park is a scenic, landscaped walkway located on the banks of the Pasig River, running along the A. Mabini Campus of the Polytechnic University of the Philippines in Sta. Mesa, Manila. Created in 2006, the park serves as a green promenade for walking, relaxing, and socializing, offering benches, shaded paths, and views of the river. The park is a favorite spot for students and visitors seeking a quiet escape within the campus, connecting nearby landmarks such as the Sampaguita Building and other campus facilities. Its design helps promote environmental awareness and community involvement alongside the bustling city environment.
         </p>
@@ -363,12 +364,12 @@
       <div class="tooltip" id="lagoon-tooltip">
         <h3>LAGOON PARK</h3>
         <img src="33lagoon.jpg" alt="LAGOON PARK Image" />
-         <p>
+              <p>
                 The PUP Lagoon, located at the center of the A. Mabini Campus in Sta. Mesa, is one 
                 of the most vibrant and well-loved spots in the Polytechnic University of the Philippines. 
                 Surrounded by greenery and shaded areas, it serves as both a relaxation area and a student 
                 marketplace, making it a favorite destination for PUPians throughout the day.
-         </p>
+              </p>
 
             <h3>Significance and Features:</h3>
             <ul>
